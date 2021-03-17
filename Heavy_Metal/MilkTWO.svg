@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   data-name="Layer 1"
+   viewBox="0 0 512 640"
+   x="0px"
+   y="0px"
+   version="1.1"
+   id="svg675"
+   sodipodi:docname="MilkTWO.svg"
+   inkscape:version="1.1-dev (9017afb, 2021-01-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs679" />
+  <sodipodi:namedview
+     id="namedview677"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     objecttolerance="10.0"
+     gridtolerance="10.0"
+     guidetolerance="10.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.9421875"
+     inkscape:cx="254.19569"
+     inkscape:cy="213.86401"
+     inkscape:window-width="1296"
+     inkscape:window-height="831"
+     inkscape:window-x="44"
+     inkscape:window-y="56"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg675" />
+  <title
+     id="title667">Milk</title>
+  <path
+     style="fill:none;stroke:#000000"
+     d="M 315.538,493 H 196.462 C 171.315,493 151,477.215 151,458.207 V 277.1 c 6,1.354 10.289,4.183 15.127,7.52 7.618,5.253 16.413,11.208 33.1,11.208 16.687,0 25.307,-5.955 32.925,-11.208 6.788,-4.682 12.14,-8.379 23.849,-8.379 11.709,0 17.068,3.7 23.856,8.379 7.618,5.254 16.25,11.208 32.941,11.208 16.691,0 25.452,-5.955 33.07,-11.208 4.839,-3.337 9.128,-6.166 15.128,-7.52 V 458.207 C 361,477.215 340.685,493 315.538,493 Z"
+     id="path803" />
+  <path
+     style="fill:none;stroke:#000000"
+     d="M 169.169,200.62 184.2,170.38 A 181.35,181.35 0 0 0 204,87.9 V 67 h 104 v 20.9 a 181.35,181.35 0 0 0 19.8,82.476 l 15.15,30.238 a 167.529,167.529 0 0 1 17.561,60.347 c -10.937,1.732 -17.589,6.322 -23.624,10.484 -6.788,4.682 -12.366,8.38 -24.076,8.38 -11.71,0 -17.085,-3.7 -23.873,-8.379 -7.618,-5.254 -16.267,-11.208 -32.96,-11.208 -16.693,0 -25.352,5.954 -32.969,11.208 -6.788,4.681 -12.2,8.379 -23.909,8.379 -11.709,0 -17.169,-3.7 -23.957,-8.379 -6.034,-4.162 -12.654,-8.752 -23.59,-10.485 a 167.612,167.612 0 0 1 17.616,-60.343 z"
+     id="path801" />
+  <path
+     style="fill:none;stroke:#000000"
+     d="M 191,22.32 A 3.652,3.652 0 0 1 194.4,19 h 123.2 a 3.652,3.652 0 0 1 3.4,3.32 v 25.9 c 0,1.655 -1.741,2.784 -3.4,2.784 H 194.4 c -1.655,0 -3.4,-1.129 -3.4,-2.784 z"
+     id="path799" />
+  <metadata
+     id="metadata2626">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Milk</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
